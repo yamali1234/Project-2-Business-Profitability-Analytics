@@ -1,65 +1,50 @@
-# Project-2-Business-Profitability-Analytics
 # Business Profitability Analytics Dashboard
 
-## 📌 Project Overview
+## Project Overview
 
-This project analyzes sales and profitability data to identify key business performance trends and profitability insights.
+This project was created to analyze sales and profitability data using Microsoft Excel. I created an interactive dashboard to understand the overall business performance and identify profitable and loss-making areas.
 
-An interactive Power BI dashboard was developed to help analyze sales, profit, customers, orders, product categories, regions, and customer segments.
-
-## 🛠️ Tools Used
+## Tool Used
 
 * Microsoft Excel
-* Power BI
-* DAX
 
-## 📊 Key KPIs
+## Key KPIs
 
-| KPI             |        Value |
-| --------------- | -----------: |
-| Total Sales     | 2,297,200.86 |
-| Total Profit    |   286,397.02 |
-| Profit Margin   |       12.47% |
-| Total Quantity  |       37,873 |
-| Total Orders    |        5,009 |
-| Total Customers |          793 |
+* Total Sales: 2,297,200.86
+* Total Profit: 286,397.02
+* Profit Margin: 12.47%
+* Total Quantity: 37,873
+* Total Orders: 5,009
+* Total Customers: 793
 
-## 📈 Dashboard Features
+## Dashboard
 
-The dashboard provides interactive analysis using:
+The dashboard includes analysis of:
 
-* Year
-* Region
-* Category
-* Segment
-
-It includes insights into:
-
-* Sales performance
-* Profitability
-* Profit margin
-* Customer segments
-* Product categories
-* Regional performance
+* Sales
+* Profit
+* Profit Margin
+* Product Categories
+* Regions
+* Customer Segments
 * Profitable and loss-making transactions
 
-## 💡 Key Insights
+The dashboard can be filtered by Year, Region, Category, and Segment.
 
-* Total sales were **2.30M** with total profit of approximately **286.40K**.
-* Overall profit margin was **12.47%**.
-* The dashboard helps identify profitable and loss-making transactions.
-* Interactive filters allow users to analyze business performance by year, region, category, and customer segment.
+## Key Insights
 
-## 📷 Dashboard Preview
+* Total sales were 2.30M.
+* Total profit was 286.40K.
+* The overall profit margin was 12.47%.
+* The analysis shows the difference between profitable, loss-making, and break-even transactions.
+* The filters can be used to compare business performance across different categories, regions, and customer segments.
 
-![Business Profitability Dashboard](Dashboard/business_profitability_dashboard.png)
+## Dashboard Preview
 
-## 📥 Power BI Dashboard
+## Project Files
 
-The Power BI `.pbix` file is available for download:
+* `Business_Profitability_Dashboard.xlsx` - Excel dashboard
 
-**[Download Power BI Dashboard (.pbix)](PASTE_GOOGLE_DRIVE_LINK_HERE)**
+## Objective
 
-## 🎯 Project Objective
-
-The main objective of this project was to build an interactive business dashboard that transforms raw sales data into meaningful insights for business performance and profitability analysis.
+The main objective of this project was to use Excel to analyze business data and create a dashboard that presents sales and profitability information in a simple and understandable way.
